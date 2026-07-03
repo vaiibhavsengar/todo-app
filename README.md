@@ -1,4 +1,4 @@
-# 📋 Dincharya - Todo App
+# 📋 Todo App
 
 **Dincharya** is a simple and efficient Todo application designed to help users organize their daily tasks and stay productive. Built with **HTML, CSS, and JavaScript**, the app provides an intuitive interface for managing tasks with ease.
 
